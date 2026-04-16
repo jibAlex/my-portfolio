@@ -3,15 +3,15 @@ function Home() {
         <main>
             {/*Me Section*/}
             <section className="me">
-                <h1>Hi, I'm John Doe</h1>
-                <p>Aspiring web developer & craeteive thinker</p>
+                <h1>Hi, I'm Alex Zamora</h1>
+                <p>Aspiring Software Engineer & craeteive thinker</p>
             </section>
 
             {/*About Section*/}
             <section id="about" className="section">
                 <h2>About Me</h2>
                 <p>
-                    I'm a student learning web developoment. i love building things with code and exploring new technologies. Currently studing at CSUSM.
+                    I'm a full time Software Engineering student at CSUSM as well as a nationaly ranked Powerlifter within the USAPL federation. I love learning new technologies and pushing myself physically and mentally. In my free time, I enjoy working on personal projects, exploring the outdoors, and spending time with friends and family.
                 </p>
             </section>
 
@@ -37,7 +37,8 @@ function Home() {
             {/*Contact Section*/}
             <section id="contact" className="section">
                 <h2>Contact Me</h2>
-                <p>Feel free to reach out if you have any questions or would like to collaborate!</p>
+                <p>Email: alexandro.zamora1234@gmail.com</p>
+                <p>GitHub: https://github.com/JibAlex</p>
             </section>
         </main>
     );
